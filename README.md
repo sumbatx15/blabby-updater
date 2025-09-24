@@ -1,11 +1,15 @@
 # BlabbyAI Speech to text for Windows
 
+![BlabbyAI Speech to Text](assets/images/speech-to-text-anywhere.png)
+
 ## 📦 Installation
 
 👉 [**Download the latest release here**](https://github.com/sumbatx15/blabby-updater/releases/latest)  
 
 This repo only contains **pre-built releases** — no source code or manual installation steps are needed. Just grab the latest `.exe` and you’re good to go.
+
 ---
+ 
 ## 🧠 What is BlabbyAI?
 
 **BlabbyAI** is a smart voice-to-text app for Windows (and the web) that helps you **write with your voice — anywhere**.
@@ -25,7 +29,6 @@ It was born out of frustration: most voice tools were Mac-only, basic, and didn�
 BlabbyAI is used by **doctors, writers, developers, journalists, and accessibility-focused users** to save time and type less.
 
 🔗 Learn more: [https://blabby.ai](https://www.blabby.ai/)
-
 
 
 
